@@ -14,11 +14,11 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 ## Summary
 
-- The analysis of the election show that:
+###### The analysis of the election show that:
 
      There were 369.711 votes cast in the election.
 
-- The candidates were:
+###### The candidates were:
 
     Charles Casper
     
@@ -26,7 +26,7 @@ A Colorado Board of Elections employee has given you the following task to compl
     
     Raymon Anthony Doane
     
-- The Camdidates results were:
+###### The Camdidates results were:
 
     Charles Casper Stockman received 23.0% of the vote and 85,213 number of votes.
     
@@ -34,9 +34,9 @@ A Colorado Board of Elections employee has given you the following task to compl
     
     Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
     
-- The winner of the election was:
+###### The winner of the election was:
 
-    Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+     Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
 
