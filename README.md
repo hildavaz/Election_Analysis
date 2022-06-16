@@ -1,7 +1,8 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following task to comple the election audit of a recent loacal congressional election.
+A Colorado Board of Elections employee has given me the following task to comple the election audit of a recent loacal
+congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get  a complete list of candidates who received votges.
@@ -39,6 +40,19 @@ A Colorado Board of Elections employee has given you the following task to compl
      Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
-
+    Prepare an Election Analysis Audit to be delivered for the most recent congretianal elections to be reviewd by 
+    the election commission.
+    
 ## Challenge Summary
+     In addition to pull the election results audit the county totals were added to the results, showing the participation by the 
+     county and the Largest County Turnout.     
+   
+![this is an image](https://github.com/hildavaz/Election_Analysis/blob/main/Resources/Election%20Results%20County.PNG)
+![this is an image](https://github.com/hildavaz/Election_Analysis/blob/main/County%20Code.PNG)
+    
+     
+     
+     
+     
+     
     
